@@ -1,4 +1,4 @@
-# Guest Network Setup
+# [WIP] Guest Network Setup
 
 The third task involved setting up a **guest network** to isolate guest devices from the main network. This ensures security and prevents unauthorized access to lab devices and services.
 
@@ -8,5 +8,4 @@ The third task involved setting up a **guest network** to isolate guest devices 
 - Implemented necessary firewall rules to prevent guests from accessing internal devices or services.
 - Tested the guest network setup to ensure proper isolation and internet access.
 
-For more details, see [guest_network_setup.md](src/guest_network_setup.md).
 
